@@ -1,4 +1,4 @@
-# Hi there, I'm Omotosho Gyro! 👋
+# Hi there, I'm Okikiola Omotosho! 👋
 
 I'm a passionate Mobile Engineer specializing in React Native and iOS development. I enjoy building efficient, user-friendly applications and continuously learning new technologies.
 
