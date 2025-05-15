@@ -31,7 +31,8 @@ Diving deep into AI, explore using OpenAPI real time API's and starting to explo
 - **Backend:** Supabase, Firebase
 - **Analytics:** Mixpanel, Engage
 - **Crashlytics:** Sentry, Bugsnags
-- **Other Tools:** Git, GitHub, Figma, VSCode, Vercel, Expo, Docker
+- **
+- **Other Tools:** Expo, Reanimated, React native gesture handler
 
 ---
 
