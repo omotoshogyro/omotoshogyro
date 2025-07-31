@@ -14,7 +14,7 @@ Diving deep into AI, explore using OpenAPI real time API's and starting to explo
 ---
 
 ## 📱 Live Applications
-
+- [Zingo](https://apps.apple.com/us/app/translate-video-audio-zingo/id6746193562) – Translate Video & Audio -- Zingo
 - [Speaking Bee](https://apps.apple.com/us/app/speaking-bee-translation-app/id6504189049) – Speaking Bee - Translation App
 - [Stacs](https://apps.apple.com/ng/app/stacs-save-get-credit/id6450111151) – Stacs - Save & Get Credit
 - [Kloza](https://apps.apple.com/ng/app/kloza/id6479576483) – KLOZA - Unite cultures, connect hearts
