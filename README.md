@@ -9,7 +9,7 @@ I love crafting smooth user experiences for mobile platforms.
 
 ## 🚧 Currently Learning- 
 
-Diving deep into AI, explore using OpenAPI real time API's and starting to explore new tools like Flutter
+Diving deep into AI, exploring OpenAPI real time API's and Amazon VegaOS
 
 ---
 
