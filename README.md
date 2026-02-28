@@ -31,7 +31,7 @@ Diving deep into AI, exploring OpenAPI real time API's and Amazon VegaOS
 
 - **Frontend Tools:** React, React Native, TypeScript, SwiftUI
 - **Backend:** Supabase, Firebase
-- **Analytics:** Mixpanel, Engage
+- **Analytics:** Mixpanel, Amplitude and Posthog
 - **Crashlytics:** Sentry, Bugsnags
 - **
 - **Other Tools:** Expo, Reanimated, React native gesture handler
