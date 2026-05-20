@@ -14,6 +14,7 @@ Diving deep into AI, exploring OpenAPI real time API's and Amazon VegaOS
 ---
 
 ## 📱 Live Applications
+- [SHFT](https://apps.apple.com/us/app/shft-fastest-shifts-swap/id6751990866) – SHFT - Shift scheduling and swapping
 - [Parakletos](https://apps.apple.com/us/app/parakletos-habit-tracker/id6754220127) – Parakletos - Spiritual Habit Accountability
 - [Clea by Autoclear](https://apps.apple.com/gb/app/clea-by-autoclear/id6749337169) – Clea by Autoclear - Pay Foreign Vendors Easily
 - [Zingo](https://apps.apple.com/us/app/translate-video-audio-zingo/id6746193562) – Zingo - Translate Video & Audio
