@@ -24,7 +24,7 @@ Kotlin Multiplatform and exploring Amazon VegaOS
 
 ## 🚧 Native features embedded into applications i have built- 
 
-- WidetKit -- for Live Widgets
+- WidgetKit -- for Live Widgets
 - Expo Module Core for Custom Vibration Haptics
 - Expo-Apple-Targets -- For Live Activities
 - StoreKit - To test Revenuecat payment integration when the payment info is still in review on App Store
