@@ -32,7 +32,7 @@ Kotlin Multiplatform and exploring Amazon VegaOS
 ---
 
 ## 📱 Live Applications
-- [Steminai]([https://apps.apple.com/us/app/steminai-fun-coding-ai/id6753605281]) – Steminai - Fun Coding & AI 
+- [Steminai](https://apps.apple.com/us/app/steminai-fun-coding-ai/id6753605281) – Steminai - Fun Coding & AI 
 - [SHFT](https://apps.apple.com/us/app/shft-fastest-shifts-swap/id6751990866) – SHFT - Shift scheduling and swapping
 - [Parakletos](https://apps.apple.com/us/app/parakletos-habit-tracker/id6754220127) – Parakletos - Spiritual Habit Accountability
 - [Clea by Autoclear](https://apps.apple.com/gb/app/clea-by-autoclear/id6749337169) – Clea by Autoclear - Pay Foreign Vendors Easily
