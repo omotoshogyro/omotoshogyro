@@ -9,11 +9,30 @@ I love crafting smooth user experiences for mobile platforms.
 
 ## 🚧 Currently Learning- 
 
-Diving deep into AI, exploring OpenAPI real time API's and Amazon VegaOS
+Kotlin Multiplatform and exploring Amazon VegaOS
+
+## 🚧 Currently Exploring - 
+
+-- Detour from Software Mansion
+-- Observe from Expo
+-- Pulsar from Software Mansion
+-- Redraw from William Candillion
+
+## 🚧 Most Challenging Feature - 
+-- A mini Game engine in React Native using Webviews
+
+
+## 🚧 Native features embedded into applications i have built- 
+
+- WidetKit -- for Live Widgets
+- Expo Module Core for Custom Vibration Haptics
+- Expo-Apple-Targets -- For Live Activities
+- StoreKit - To test Revenuecat payment integration when the payment info is still in review on App Store
 
 ---
 
 ## 📱 Live Applications
+- [Steminai]([https://apps.apple.com/us/app/steminai-fun-coding-ai/id6753605281]) – Steminai - Fun Coding & AI 
 - [SHFT](https://apps.apple.com/us/app/shft-fastest-shifts-swap/id6751990866) – SHFT - Shift scheduling and swapping
 - [Parakletos](https://apps.apple.com/us/app/parakletos-habit-tracker/id6754220127) – Parakletos - Spiritual Habit Accountability
 - [Clea by Autoclear](https://apps.apple.com/gb/app/clea-by-autoclear/id6749337169) – Clea by Autoclear - Pay Foreign Vendors Easily
@@ -34,7 +53,6 @@ Diving deep into AI, exploring OpenAPI real time API's and Amazon VegaOS
 - **Backend:** Supabase, Firebase
 - **Analytics:** Mixpanel, Amplitude and Posthog
 - **Crashlytics:** Sentry, Bugsnags
-- **
 - **Other Tools:** Expo, Reanimated, React native gesture handler
 
 ---
